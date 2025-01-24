@@ -19,7 +19,7 @@ npm start
 
 ## Author
 
-Telegram: [@dillon130](https://t.me/dillon130)
+Telegram: [@SolVeerDave](https://t.me/SolVeerDave)
 
 You can always find me here, for help, or for other projects.
 
